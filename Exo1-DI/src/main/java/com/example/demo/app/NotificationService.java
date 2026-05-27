@@ -1,6 +1,6 @@
 package com.example.demo.app;
 
-import com.example.bestioles.service.MessageService;
+import com.example.demo.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
