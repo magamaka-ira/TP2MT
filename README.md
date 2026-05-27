@@ -2,7 +2,7 @@
 
 > **Projet complet des 4 exercices du TP2 Spring Boot**  
 > Étudiant: Moneli AGAMAKA | Promotion: IRA2026  
-> Date: 27 Mai 2026
+> Date: 26 Mai 2026
 
 ---
 
